@@ -1,4 +1,4 @@
-Shell, init files, variables and expansions
+**Shell variables and expansions<br>
 0-alias
 This script creates an alias for "rm".
 
